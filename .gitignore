@@ -1,0 +1,20 @@
+# Игнорируем файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорируем окружение virtualenv
+venv/
+.env
+
+# Игнорируем системные файлы macOS
+.DS_Store
+
+# Игнорируем файлы IDE (например, PyCharm)
+.idea/
+*.iml
+
+# Лог-файлы
+*.log
+
+
